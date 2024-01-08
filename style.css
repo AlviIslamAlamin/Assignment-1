@@ -329,3 +329,35 @@ header h1{
     line-height: 40px; 
  }
  /* footer section end */
+
+
+ /* optional section start  */
+.optional-section{
+   max-width: 1340px;
+   margin: 200px auto;
+   background-image: url("img/Group\ 75.png"), url("img/Rectangle\ 2.png"), url("img/Rectangle\ 1.png");
+   background-repeat: no-repeat;
+   height: 890px;
+   background-position: bottom left, bottom, right;
+   width: 1310px;
+}
+.optional-section .optional-container{
+     text-align: center;
+}
+.optional-section .optional-container h5{
+   color: #070211;
+   font-size: 24px;
+   font-weight: 500;
+}
+.optional-section .optional-container h1{
+   color: #070211;
+   font-size: 72px;
+   font-weight: 900;
+}
+.optional-section .optional-container p{
+   color: rgba(7, 2, 17, 0.60);
+   font-size: 20px;
+   font-weight: 500;
+}
+
+ /* optional section end */
