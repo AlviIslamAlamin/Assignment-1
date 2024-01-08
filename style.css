@@ -335,10 +335,10 @@ header h1{
 .optional-section{
    max-width: 1340px;
    margin: 200px auto;
-   background-image: url("img/Group\ 75.png"), url("img/Rectangle\ 2.png"), url("img/Rectangle\ 1.png");
+   background-image: url("img/Group\ 75.png"), url("img/Rectangle\ 2.png"), url("img/Group\ 44.png"), url("img/Rectangle\ 1.png");
    background-repeat: no-repeat;
    height: 890px;
-   background-position: bottom left, bottom, right;
+   background-position: bottom left, bottom, 700px , right;
    width: 1310px;
 }
 .optional-section .optional-container{
